@@ -1,0 +1,17 @@
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.csproj.AssemblyReference.cache
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\testashota.exe
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\testashota.deps.json
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\testashota.runtimeconfig.json
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\testashota.dll
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\testashota.pdb
+C:\Users\Тимофей\source\repos\testashota\testashota\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.csproj.CopyComplete
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.dll
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\refint\testashota.dll
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.pdb
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\testashota.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\testashota\testashota\obj\Debug\net6.0\ref\testashota.dll

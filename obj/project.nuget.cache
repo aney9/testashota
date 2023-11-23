@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6lnQZZ48OitCOUfBS1u+Z2GZk5t4XFTLlLqUXueUYDyABzUyIK1oPZoBtSFUJ/dxJ8aMZ2jpmVs9qbnnueO5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Тимофей\\source\\repos\\testashota\\testashota\\testashota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Тимофей\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
